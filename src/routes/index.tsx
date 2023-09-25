@@ -86,7 +86,7 @@ export default function Home() {
   };
 
   return (
-    <main class="flex flex-row">
+    <main class="flex flex-row container justify-center px-32 py-4">
       <Chatbox
         messages={messages() as Message[]}
         sendMessage={sendMessage}

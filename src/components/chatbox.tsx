@@ -12,24 +12,26 @@ export default function Chatbox(props: ChatboxProps) {
     const [text, setText] = createSignal("");
 
     return (
-        <div class="chat-container">
+        <div class="chat-container w-full">
             <div class="messages-box">
                 {props.messages.map(m => <MessageUI message={m} />)}
             </div>
-            <input
-                class="chat-input"
-                placeholder="send message"
-                onInput={e => {
-                    setText(e.target.value);
-                }}
-            />
-            {props.messageSending
-                ?
-                <span class="loading loading-spinner loading-lg"></span>
-                : <button class="btn btn-active btn-primary" onClick={() => {
-                    props.sendMessage(text());
-                }}>send</button>
-            }
+            <div class="w-full flex flex-row space-x-4">
+                <input
+                    class="chat-input w-[80%] textarea textarea-bordered"
+                    placeholder="send message"
+                    onInput={e => {
+                        setText(e.target.value);
+                    }}
+                />
+                {props.messageSending
+                    ?
+                    <span class="loading loading-spinner loading-lg"></span>
+                    : <button class="btn btn-active btn-primary" onClick={() => {
+                        props.sendMessage(text());
+                    }}>send</button>
+                }
+            </div>
         </div>
     );
 }
