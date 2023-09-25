@@ -8,6 +8,7 @@
   "type": "module",
   "devDependencies": {
     "@types/node": "^18.17.5",
+    "@types/papaparse": "^5.3.9",
     "autoprefixer": "^10.4.16",
     "daisyui": "^3.7.7",
     "esbuild": "^0.14.54",
@@ -21,6 +22,7 @@
     "@solidjs/meta": "^0.28.6",
     "@solidjs/router": "^0.8.3",
     "openai": "^4.10.0",
+    "papaparse": "^5.4.1",
     "solid-js": "^1.7.12",
     "solid-start": "^0.3.6"
   },

@@ -1,41 +1,38 @@
 import Chatbox from '~/components/chatbox';
-// import sendChatMessage from '~/lib/sendChatMessage';
 import { askQuestionOrMakeInitialRecommendation, refineList } from '~/lib/openai';
 import { Message } from '~/types';
 import { createSignal } from 'solid-js';
 import Recs, { Rec } from '~/components/recommendations';
-
 
 export default function Home() {
   const [messageSending, setMessageSending] = createSignal(false);
   const [messages, setMessages] = createSignal([]);
   const [recs, setRecs] = createSignal([]);
 
+  // transpose so each entry is a row
+  // collapse first three rows into a header
   const sendMessage = async (t: string) => {
     setMessageSending(true);
     const newMessages = [...messages(), { role: 'user', content: t }];
     setMessages(newMessages);
 
 
-    const products = (await import('~/data.json')).default;
-
     if (recs && recs().length) {
       const x = await refineList(newMessages, recs());
       setMessageSending(false);
       const res = JSON.parse(x.data).map(d => {
-        const product = products.find(x => x.id == d.id - 1);
+        console.log(d)
         return {
-          name: product.name,
-          // name: d.name,
+          name: d.name,
           rank: d.rating,
-          logo: product.Image,
+          logo: 'https://img.logoipsum.com/287.svg',
           pros: d.Pros,
           cons: d.Cons,
         };
       })
       setRecs(res);
       const resp = {
-        content: "Sure. Here are my revised recommendations.",
+        content: x.response,
         role: 'assistant'
       };
       setMessages([...messages(), resp]);
@@ -47,19 +44,17 @@ export default function Home() {
           switch (x.type) {
             case 'recs':
               const res = JSON.parse(x.data).map(d => {
-                const product = products.find(x => x.id == d.id - 1);
                 return {
-                  name: product.name,
-                  // name: d.name,
+                  name: d.name,
                   rank: d.rating,
-                  logo: product.Image,
+                  logo: 'https://img.logoipsum.com/287.svg',
                   pros: d.Pros,
                   cons: d.Cons,
                 };
               })
               setRecs(res);
               const resp = {
-                content: "Sure. Here are some of my recommendations.",
+                content: x.response,
                 role: 'assistant'
               };
               setMessages([...messages(), resp]);

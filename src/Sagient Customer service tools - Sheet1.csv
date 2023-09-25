@@ -1,0 +1,116 @@
+,,,Gladly,Birdeye,Front,Zendesk,Intercom,Hubspot Service Hub,Groove,Ada.cx,Landbot,Drift,ManyChat,ChatFuel,Quickchat,ZohoDesk,Freshdesk
+Priority,,,,,,1,1,2,2,2,1,,,1,3,,
+Summary,,,Revolves around the customer. Premium service.,"Also customer service, but hey mainly focus on the reputation management for the local businesses",Aggregates customer communications in one mailbox and allows to easily organise and collaborate on customer issues. Automation is less prominent as Front focuses on industries requiring a large degree of human touch.,,"Market leader, offering a breadth of use cases across customer service and lead generation, with a comprehensive set of integration. Offers state-of-art AI capabilities to automate interactions. Might be a bit difficult to set up due to its comprehensive nature.","A simple add-on to your Hubspot CRM. Handy for Hubspot users, it's a simple and robust solution. More advanced features are only available in more expensive plans.",Simple and affordable customer service tool offering basic functionality.,"A market leader for AI-automated customer service. The main focus is on the automation engine, which works even for voice. The solution is mainly aimed at Enterprise customers. It's a point solution, which means that it will likely require integration with other tools for a fully-functioning customer service system.","No-code, primarily rules-based chatbot builder that mainly captures leads. No native AI functionality. A cost-effective and simple solution.",,"Easy to start with and build custom flows, but it's mainly optimised for sales and not for customer service",Simple tool that's based on Messenger and WhatsApp and is designed primarily for sales support for ecommerce businesses. Since recently it has AI capabilities.,being filled out by Patryk,,
+Website link,,,,,https://front.com/,,https://intercom.com/,https://www.hubspot.com/products/service?hubs_content=www.hubspot.com&hubs_content-cta=homepage-service,https://www.groovehq.com/,https://www.ada.cx/,https://landbot.io/,,,https://chatfuel.com/,,,
+G2 Link,,,,,https://www.g2.com/products/front/reviews,https://www.g2.com/products/zendesk-support-suite/reviews,https://www.g2.com/products/intercom/reviews,https://www.g2.com/products/hubspot-service-hub/reviews,https://www.g2.com/products/groovehq/reviews,https://www.g2.com/products/ada-support-inc-ada/reviews,https://www.g2.com/products/landbot/reviews,,,https://www.g2.com/products/chatfuel-ai/reviews,,,
+Capterra Link,,,,,https://www.capterra.com/p/132901/Front/,,https://www.capterra.co.uk/software/134347/intercom,https://www.capterra.com/p/182476/HubSpot-Service-Hub/,https://www.capterra.com/p/143005/Groove/,https://www.capterra.com/p/164470/Ada-Support/,https://www.capterra.co.uk/software/153051/landbot,,,,,,
+Chatimize link,,,,,,none,https://chatimize.com/reviews/intercom/,https://chatimize.com/reviews/hubspot/,,,https://chatimize.com/reviews/landbot/,,,https://chatimize.com/reviews/chatfuel/,,,
+Target industry,,,,,"Organisations that require a high degree of human touch (B2B Technology, Financial Services, Logistics, Manufacturing, Professional Services, Travel)",,,,,,,,,,,,
+Size: Summary,,,,,Fit for larger organisations where collaboration is a bigger problem,,"Mid-market and enterprise, but some startups use it too","Smaller customers, but some larger ones too",Smaller companies,Larger customers: Mid-market to Enterprise,"Mostly smaller companies (1-50 employees), but all sizes are represented in the reviews",,,Mostly small businesses and mostly ecommerce,,,
+Size: Small business (G2),,,,,51%,43%,57%,,,,,,,,,,
+Size: Mid market (G2),,,,,41%,45%,36%,,,,,,,,,,
+Size: Enterprise (G2),,,,,8%,12%,4%,,,,,,,,,,
+Primary purpose,,,,,Customer service,,"Mostly used for customer service, but also for lead generation","Mainly support, sales use case also available",Support,"Support, but it can be used for sales and campaigns too","Mostly lead generation, but it also serves customer service",,,"Primarily sales and engagement, some customer support",,,
+Contact channels,,,,,,,,,,,,,,,,,
+,Phone,,,,Yes - via an integration,,Yes - allows to switch from phone to chat,No - only in beta; VoIP available,No,"Yes - remarkably, it's also possible to automate voice",No,,,No,,,
+,Website live chat,,,,Yes,,Yes,Yes,Yes,Yes,Yes,,,Yes - a Messenger plugin,,,
+,Email,,,,Yes,,"Yes, but email AI is only coming soon",Yes,Yes,Yes,Yes,,,Unknown,,,
+,Messenger,,,,Yes,,Yes,Yes,Yes - via integration,Yes,Yes,,,Yes,,,
+,Instagram,,,,Yes,,Yes,No,Yes - via integration,Yes,No,,,Yes,,,
+,SMS,,,,Yes - via Twilio,,Yes,No,Clunky - via Zapier,Yes - via Twilio,No,,,No,,,
+,WhatsApp,,,,Yes,,Not natively - but integration is possible,"Yes, but only on Professional or Enterprise",No,Yes,Yes,,,Yes,,,
+Automation capabilities,,,,,Some automated rules (in the Scale plan),,"Yes, extensive automation capabilities.",Basic flows available,Basic flows available,State-of-art automation capabilities,"Manual, keyword-based automation capabilities.",,,"Yes, graphical no-code chatbot building",,,
+AI capabilities,Overall,,,,AI-generated response drafts.,,Yes. Convenient chatbot building with ready-made tools. There are also various AI features built into the product - e.g. one can expand brief agent-typed messages.,None,There is only AI assistance to customer service agents.,State-of-art automation capabilities,Very fiddly integration with OpenAI - no native support for AI.,,,Very fiddly integration with OpenAI - no native support for AI.,,,
+,Build from FAQs,,,,No,,Yes,No,No,Yes,No,,,Yes,,,
+,Integrate popular apps,,,,No,,Yes,No,No,Yes,No,,,No,,,
+,Integrate custom data sources,,,,No,,No,No,No,Yes,No,,,"Yes, in higher plans",,,
+Ease of use and setup,,,,,"Easy to use interface resembling email, easy to set up",,It can be confusing to set up - there is a bit of complexity and jargon.,It's simple software so it's relatively easy to set up,Very easy to use,"No-code, but it's more involved than average as an enterprise product",Easy to use and set up.,,,,,,
+Ticketing system,,,,,"No - and it's a conscious decision, as Front makes a point about focusing on relationships and not tickets",,"Yes, supports automated rules",Yes,"No - but conversations serve as tickets, and it's possible to assign and manage them",No,No,,,No,,,
+Integrations,,,,,"Wide range of integrations with project management, bots, CRM and eCommerce tools; some tools integrate only in the Growth plan",,"Numerous integrations - there is an app store, an API.",Integration for the parent software - Hubspot CRM - exist,"Shopify
+Recharge
+Stripe
+Slack
+Messenger
+Instagram
+MailChimp
+Trello
+Jira
+Hubspot
+Salesforce
+Github
+Facebook
+Zapier
+Delighted
+JustCall",Plethora of integrations available,"HubSpot
+Slack
+Google Sheets
+Airtable
+Stripe
+Calendly
+Zapier
+Mailchimp
+Segment
+Dialogflow
+SendGrid
+API",,,"Calendly
+Stripe
+Zapier
+ChatGPT",,,
+Pricing,,,150-180,,"Growth: $59/seat/month
+Scale: $99/seat/month - flexible rules, extra security",,"Starter: $74/mo; Includes 2 seats and 1,000 People reached; $19 per additional seat
+Pro: $395/mo; Includes 5 seats; $79 per additional seat; includes Assignment rules; Ticketing system; Workflows for advanced automations
+Premium: Includes e.g. SLAs
+Usage of Fin is counted separately on top of the plans and is based on resolutions. It's 99 cents per resolution.
+There are heavy discounts for startups - up to 95% off for the first year","Free: Ticketing, Live chat, Team email, Tickets closed reports, Reporting dashboard, Shared inbox
+Starter ($45/month): Simple ticket automation, Multiple ticket pipelines
+Professional ($450/month (USD): Help desk automation, Knowledge base","Standard, $12: Up to 5 users, 5 Channels, 6 months Search History, 5 Smart Folders, 1 Knowledge Base.
+
+Premium, $20: Up to 15 users, 10 Channels, Unlimited Search History, Unlimited Knowledge Bases, 20+ Integrations, API & Webhooks.
+
+Advanced, $40: Up to 50 users, Unlimited Channels, Time Based Rules, Priority Support, Data Exports, Custom Fields.
+
+Enterprise, Custom: Price and features not specified.","Not available publicly, but contract size is at least tens of thousands of dollars annually.","Starter: EUR 30/month, incl. 500 chats; EUR 10 per extra seat; includes basic integrations
+Pro: EUR 80/month, incl. 2500 chats; EUR 19 per extra seat; includes includes more integration, e.g. Hubspot and any API
+150 EUR per month extra for WhatsApp (500 chats included, then 0.1 EUR extra for each chat)",,,"Entrepreneur: $14.99/month, 500 chats
+Startup: $24.99/month, 1000 chats
+Small Business: $59.99/month, 3000 chats
+Growing Business: $119.99/month, 10000 chats",,,
+Other supported features,Other features and comments,,,,Knowledge base,,"Supports product tours.They lack some elements, such as Audio, Attachments and Galleries","Good analytics, knowledge base embeddable on the website, customer portal where customers can view status of their support tickets",Knowledge base,Twitter integration,,,,,,,
+Notable unsupported features,Other features and comments,,,,,,"No Audio, Attachments and Galleries supported in chats.",,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Cons,,,,,,,,,,Cost - millions,,,"Doesn't have stats around customer service metrics, e.g. % of conversation handed over to a human",,,,
+AI model used,,,,,,,,,,OpenAI,,,,,,,
+,,,,,,,,,,,,,,,,,
+Customer profile,,,,Local businesses,,,,,,,,,,,,,
+# customers,,,,100K,8K,160K,,,,,,,,,,,
+Interesting customers,,,,,AirBnB is on their website,,,,,"Meta, Square, AirAsia, Betsson, BFA, Mailchimp, Wave, Verizon, Yeti, SodaStream, Grab",,,,,,,
+Customer size,,,,,,From Small to Enterprise,,,,,,,,,,,
+Extensions,,,,,,Plenty of apps to integrate with,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Receive communications from the customer,,,,,,,,,,,,,,,,,
+,On the website,,,,,,,,,,,,,,,,
+,From the phone,,,,,,,,,,,,,,,,
+,From email,,,,,,,,,,,,,,,,
+,From social media: Direct messages,,,,,,,,,,WhatsApp is only available in the Pro plan at 300 EUR per user per month,,,,,,
+,From social media: Mentions and comments,,,,,,,,,,,,,,,,
+,From the internet: Reviews,,,They specialise in here,,,,,,,,,,,,,
+Organise it,,,,,,,,,,,,,,,,,
+,By customer,,They specialise in here,,,,,,,,,,,,,,
+,By ticket,,,,,,,,,,,,,,,,
+Route to agents,,,,,,,,,,,,,,,,,
+Engage with the customer,,,,,,,,,,,,,,,,,
+,Allow the human to respond,,,,,,,,,,,,,,,,
+,Allow the robot to respond,,,,,Advanced AI only in the Professional package,,,,This is their main proposition; they have self-serve options; they can link to internal databases,,,,,,,
+,,In natural language - chat bot,,,,,Yes,,,,,,,,,,
+,,FAQ integration,,,,,Yes,,,,,,,,,,
+,,Company data integration,,,,,No,,,,,,,,,,
+,,Website integration,,,,,Yes,,,,,,,,,,
+,,Learn based on past convos,,,,,No,,,,,,,,,,
+Analyse,,,,,,,,,,,,,,,,,
+More materials,,,,,,,,,,Forrester report - here,,,,,,,
